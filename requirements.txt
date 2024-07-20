@@ -1,0 +1,10 @@
+langchain
+langchain-community
+streamlit
+langchain-core
+chromadb
+tiktoken
+beautifulsoup4
+
+#  ollama pull mistral
+#  ollama pull nomic-embed-text
